@@ -1,7 +1,6 @@
 install:
-    #install commands
-    pip install --upgrade pip &&\
-    	pip install -r requirements.txt
+	#install commands
+	pip install --upgrade pip && pip install -r requirements.txt
 fromat:
     #format code
 lint:
